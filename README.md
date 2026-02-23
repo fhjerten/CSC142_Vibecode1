@@ -1,3 +1,13 @@
-Basketball Stat Extractor This groupproject is a basketball stat extractor that reads player data from a CSV file and displays team rosters and statistics for the player within that team. The program allows the user to select a team and gender, view all players sorted by jersey number, and choose a player to see their stats. The project uses Player and Team classes. Player stores information such as name, number, gender, and stats, and includes a method to display stats. Team stores a list of players and includes methods to add players, display the roster, and find a player by jersey number. The data used is loaded from a CSV file and converted into Player and Team objects before being used in the program. Tools we are using: Python and a CSV file. How to run the program: By running the skeleton_main file.
+VIBECODE GROUP PROJECT 1
 
-Updated: being able to see both men and womens team, and seeing the teams total averages.
+Albright college basketball statistics viewer.
+
+This program is made for letting the user be able to view the statistics for Albright College Women's and Men's Basketball teams. By running the project can the user choose to select a team, view the roster for each team, view team averages for specific categories, and individual stats. You are able to search for a player by their name or number. 
+
+HOW TO RUN THE PROJECT: 
+Make sure all files are included in the folder you are opening. Run the file skeleton_main.py, or write - python skeleton_main.py in the terminal. Lastly follow the instructions to see what you want to see. 
+
+AUTHORS
+Filip Hjerten
+Romello Fuentes
+Jermaine Armstrong
