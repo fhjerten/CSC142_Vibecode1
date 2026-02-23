@@ -12,6 +12,6 @@ Make sure all files are included in the folder you are opening. Run the file ske
 
 AUTHORS:
 
-Filip Hjerten
-Romello Fuentes
+Filip Hjerten,
+Romello Fuentes,
 Jermaine Armstrong
